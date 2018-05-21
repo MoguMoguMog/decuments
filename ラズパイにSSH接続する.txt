@@ -1,0 +1,9 @@
+1. SDカードをWindowsPCで読み込む
+2. /boot直下にファイル名sshの空ファイルを作成する
+　注)拡張子はいらない
+3. ラズパイ起動
+4. ifconfigでipアドレス確認
+5. WindowaPCにTera Termインストール
+6. ラズパイのipアドレスに接続
+　ユーザー名:pi
+　パスワード:raspberry
